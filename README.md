@@ -1,6 +1,22 @@
 # HmsApp
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.11.
+This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.11, Node version 20.13.1.
+
+## Setting up local
+
+1. Install Node CLI, Angular 19
+2. Start local server
+
+```bash
+ng serve
+```
+
+3. Login details from `src\app\services\auth.service.ts`
+
+```bash
+user: admin
+pass: admin123
+```
 
 ## Development server
 
